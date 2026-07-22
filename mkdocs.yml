@@ -1,0 +1,165 @@
+site_name: Справочник малыша
+
+theme:
+  name: material
+  language: ru
+
+plugins:
+  - search
+
+markdown_extensions:
+  - admonition
+  - attr_list
+  - md_in_html
+  - tables
+  - pymdownx.details
+  - pymdownx.superfences
+
+nav:
+
+  - 🏠 Главная: index.md
+
+  - ⭐ Важные статьи:
+      - ❗ Инструкция к ребенку: important/instruction.md
+      - ⏰ Норма сна и бодрствования: important/sleep_norm.md
+      - 👻 Как с ним бодрствовать: important/how_to_stay_awake.md
+      - 😴 Ритуал на сон: important/sleep_ritual.md
+      - 👕 Как одевать на прогулку: important/how_to_dress.md
+      - 🤸 Выкладывание на живот: important/laying_on_the_stomach.md
+      - 📈 Скачки роста: important/growth_spurts.md
+
+  - 📁 Категории:
+      - 👶🏻 0–3 месяца:
+
+          - Факты о новорожденном: categories/0_3_months/newborn_facts.md
+
+          - Развитие ребенка 0–1 месяц: categories/0_3_months/development_0_1.md
+
+          - Развитие ребенка 1–2 месяца: categories/0_3_months/development_1_2.md
+
+          - Игры с малышом 0–4 месяца: categories/0_3_months/games_0_4.md
+
+      - ✅ Полезное:
+
+          - Развитие нервной системы у детей:
+              categories/useful/nervous_system.md
+
+          - Что способствует развитию речи и самостоятельности ребенка:
+              categories/useful/speech_and_independence.md
+
+          - Как общаться с ребенком:
+              categories/useful/communication.md
+
+          - 7 правил воспитания мальчика:
+              categories/useful/boy_upbringing.md
+
+          - Детские манипуляции:
+              categories/useful/manipulation.md
+
+          - Правила введения прикорма:
+              categories/useful/complementary_food.md
+
+          - Прививки и вакцинация:
+              categories/useful/vaccination.md
+
+      - 👕 Размер одежды и обуви:
+
+          - Размер одежды:
+              categories/clothing_and_shoe_size/clothes_size.md
+
+          - Размер шапки:
+              categories/clothing_and_shoe_size/hat_size.md
+
+          - Размер носков и обуви:
+              categories/clothing_and_shoe_size/socks_and_shoes.md
+
+      - 🧸 Игрушки и книги:
+
+          - Какие игрушки выбирать? 0–12 месяцев:
+              categories/toys_and_books/choosing_toys.md
+
+          - Игрушки 0–3 месяца:
+              categories/toys_and_books/toys_0_3.md
+
+          - Лучшие книги для развития ребенка:
+              categories/toys_and_books/best_books.md
+
+          - Интересные игрушки на разный возраст:
+              categories/toys_and_books/toys_by_age.md
+
+      - 🎬👶🏻 Видео (новорожденный):
+
+          - Как брать и класть новорожденного:
+              categories/video_newborn/take_and_put_baby.md
+
+          - Как его носить до 3-х месяцев:
+              categories/video_newborn/carry_baby.md
+
+          - Как выкладывать на животик:
+              categories/video_newborn/tummy_time_video.md
+
+          - Как успокоить если не успокаивается:
+              categories/video_newborn/calm_baby.md
+
+          - Как положить в кроватку чтобы не проснулся:
+              categories/video_newborn/put_to_crib.md
+
+          - Как научить переворачиваться:
+              categories/video_newborn/teach_roll_over.md
+
+          - Развитие с 0 месяцев:
+              categories/video_newborn/development_from_birth.md
+
+          - Массаж от 0 до 3-х месяцев:
+              categories/video_newborn/massage_0_3.md
+
+          - Что делать если он выгибается и запрокидывает голову:
+              categories/video_newborn/arching_baby.md
+
+          - Медуза — чтобы успокоить и отвлечь:
+              categories/video_newborn/jellyfish_calm.md
+
+          - Игра с новорожденным 0–1 месяц:
+              categories/video_newborn/games_0_1.md
+
+          - Игра с новорожденным 1–2 месяца:
+              categories/video_newborn/games_1_2.md
+
+      - 🎬 Видео (игры и развитие):
+
+          - Как научить есть приборами:
+              categories/video_games_and_development/learn_eating_with_utensils.md
+
+          - Варианты игры с конструктором:
+              categories/video_games_and_development/constructor_games.md
+
+          - Бытовые игры:
+              categories/video_games_and_development/household_games.md
+
+          - Играем и развиваемся часть 1:
+              categories/video_games_and_development/play_and_develop_1.md
+
+          - Играем и развиваемся часть 2:
+              categories/video_games_and_development/play_and_develop_2.md
+
+          - Игры на улице часть 1:
+              categories/video_games_and_development/outdoor_games_1.md
+
+          - Игры на улице часть 2:
+              categories/video_games_and_development/outdoor_games_2.md
+
+          - Как договориться с двухлеткой:
+              categories/video_games_and_development/talk_with_toddler.md
+
+      - 📺 Мультики 2+:
+
+          - Какие мультики смотреть:
+              categories/cartoons/cartoons.md
+
+
+extra_css:
+  - assets/css/extra.css
+
+extra_javascript:
+  - assets/js/scroll-top.js
+  - assets/js/home-link.js
