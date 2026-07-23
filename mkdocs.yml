@@ -1,9 +1,14 @@
-site_url: https://lyubov78.github.io/My_baby_guide/
 site_name: Справочник малыша
+site_url: https://lyubov78.github.io/My_baby_guide/
 
 theme:
   name: material
   language: ru
+  favicon: media/images/favicon.png
+  logo: media/images/favicon.png
+
+extra:
+  generator: false
 
 plugins:
   - search

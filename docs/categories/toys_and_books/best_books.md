@@ -51,25 +51,28 @@
 
 ## 👶 От 1 года
 
-1. **[«Так намного лучше» Татьяна Коваль](https://www.wildberries.ru/catalog/520903025/detail.aspx)**  
+1. **[«Первые правила безопасности» Кожевникова Светлана](https://www.ozon.ru/product/kartonnaya-kniga-dlya-malyshey-pervye-pravila-bezopasnosti-0-kozhevnikova-svetlana-3545019031/?at=z6tO1xg1pcvpyD5Ji2KpX6gi8Q2poOSwp104Dc98Jyg4&sh=eLuniRtLTg)**
+Книга в стихах знакомит малышей с важными правилами безопасного поведения дома и на улице.
+
+2. **[«Так намного лучше» Татьяна Коваль](https://www.wildberries.ru/catalog/520903025/detail.aspx)**  
 Развивает мелкую моторику, речь, воображение и координацию.
 
-2. **[Карточки «Тяни и корми»](https://www.wildberries.ru/catalog/404045526/detail.aspx)**  
+3. **[Карточки «Тяни и корми»](https://www.wildberries.ru/catalog/404045526/detail.aspx)**  
 Малыш узнает, чем питаются разные животные, вытягивая подвижные элементы на карточках. Развивает речь, внимание, мелкую моторику и расширяет кругозор.
 
-3. **[«Помогаю маме»](https://www.wildberries.ru/catalog/411661820/detail.aspx)**  
+4. **[«Помогаю маме»](https://www.wildberries.ru/catalog/411661820/detail.aspx)**  
 Внутри вставные детали, с которыми ребёнок учится сортировать предметы, развивая мелкую моторику, речь, внимание и логику.
 
-4. **[«Я иду искать» Елена Макаревич](https://www.wildberries.ru/catalog/608418816/detail.aspx)**  
+5. **[«Я иду искать» Елена Макаревич](https://www.wildberries.ru/catalog/608418816/detail.aspx)**  
 Ребёнок двигает элементы, ищет спрятавшихся зверят и играет по принципу мемори, развивая внимание, память, мелкую моторику, речь и координацию.
 
-5. **[Большой тактильный пазл «Жители леса»](https://www.wildberries.ru/catalog/189112741/detail.aspx)**  
+6. **[Большой тактильный пазл «Жители леса»](https://www.wildberries.ru/catalog/189112741/detail.aspx)**  
 Крупные фигурки с разными текстурами помогают изучать лесных животных, развивая сенсорику, мелкую моторику, логику, речь и воображение.
 
-6. **[Ароматная книга «Запутанная история»](https://www.wildberries.ru/catalog/222142944/detail.aspx)**  
+7. **[Ароматная книга «Запутанная история»](https://www.wildberries.ru/catalog/222142944/detail.aspx)**  
 Книга развивает речь, воображение, память, внимание, мелкую моторику и сенсорное восприятие.
 
-7. **[Тактильная книга «Веселые пупырышки. Транспорт»](https://www.wildberries.ru/catalog/145216657/detail.aspx)**  
+8. **[Тактильная книга «Веселые пупырышки. Транспорт»](https://www.wildberries.ru/catalog/145216657/detail.aspx)**  
 Сенсорные пупырышки помогают развивать мелкую моторику, речь, внимание, координацию и мышление через весёлые пальчиковые игры.
 
 ---
@@ -83,5 +86,11 @@
 
 ## 👧 От 3 лет
 
-1. **[«Найди и обведи» Светлана Лосева](https://www.wildberries.ru/catalog/608473064/detail.aspx)**  
+1. **[Водяная раскраска пазл для малышей «Логика» Bondibon](https://www.ozon.ru/product/vodyanaya-raskraska-pazl-dlya-malyshey-logika-bondibon-mnogorazovaya-vodnaya-razvivayushchiy-nabor-314826296/?from=share_ios&perehod=smm_share_button_productpage_link&sh=eLuniQUr0A&short=oNEDRfB)**
+Многоразовая водная раскраска-пазл. Развивает воображение, образное/логическое мышление, наблюдательность, внимание, мелкую моторику. 
+
+2. **[«Найди и обведи» Светлана Лосева](https://www.wildberries.ru/catalog/608473064/detail.aspx)**  
 Многоразовая книга с маркером, можно писать и стирать бесконечно. Развивает логику, внимание, память, мелкую моторику и навыки счёта.
+
+3. **[Лото детское деревянное «Азбука хороших манер» Десятое Королевство](https://www.ozon.ru/product/loto-detskoe-derevyannoe-azbuka-horoshih-maner-nastolnye-igry-dlya-detey-ot-3-let-2157903641/?at=46tRVm0VQs4Ar6l3U0RzvQ1hvQyJqjS8jBgGACq8qDYV&sh=eLuniQUr0A)**
+Развивает логическое мышление, внимание и наблюдательность.

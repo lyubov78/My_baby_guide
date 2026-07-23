@@ -15,6 +15,7 @@
 ## 📁 Категории
 
 - 👶🏻 **[0–3 месяца](categories/0_3_months/index.md)**
+- 👦🏻 **[1+ годик](categories/1_year_plus/index.md)**
 - ✅ **[Полезное](categories/useful/index.md)**
 - 👕 **[Размер одежды и обуви](categories/clothing_and_shoe_size/index.md)**
 - 🧸 **[Игрушки и книги](categories/toys_and_books/index.md)**
