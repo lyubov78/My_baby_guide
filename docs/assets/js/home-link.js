@@ -5,7 +5,7 @@ document.addEventListener("DOMContentLoaded", function () {
         title.style.cursor = "pointer";
 
         title.addEventListener("click", function () {
-            window.location.href = "/";
+            window.location.href = "/My_baby_guide/";
         });
     }
 });
