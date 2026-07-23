@@ -4,6 +4,7 @@ site_url: https://lyubov78.github.io/My_baby_guide/
 theme:
   name: material
   language: ru
+  custom_dir: docs/overrides
   favicon: media/images/favicon.png
   logo: media/images/favicon.png
 
